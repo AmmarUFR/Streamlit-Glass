@@ -29,7 +29,7 @@ Dataset yang saya gunakan adalah dataset yang berasal dari Kaggle. Dataset ini b
 
 [Glass Classification](https://www.kaggle.com/datasets/uciml/glass).
 
-### Variabel-variabel pada Heart Failure Prediction Dataset adalah sebagai berikut:
+### Variabel-variabel pada Glass Dataset adalah sebagai berikut:
 - Id number: 1 sampai 214
 - RI: refractive index
 - Na: Sodium
