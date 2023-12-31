@@ -1,7 +1,7 @@
 import pickle
 import streamlit as st
 
-model = pickle.load(open('UAS_ML1_211351016_Ammar.sav'))
+model = pickle.load(open('UAS_ML1_211351016_Ammar.sav', 'rb'))
 
 st.title('Estimasi Tipe Kaca')
 
