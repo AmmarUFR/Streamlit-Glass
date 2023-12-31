@@ -168,6 +168,6 @@ filename = 'UAS_ML1_211351016_Ammar.sav'
 pickle.dump(model1,open(filename,'wb'))
 ```
 ## Deployment
-[My Estimation App](https://appglass.streamlit.app/)
+[My Estimation App](https://appglass.streamlit.app/)<br>
 ![Alt text](app.png)<br>
 
