@@ -1,6 +1,6 @@
 # Laporan UAS Machine Learning 1
 ### Nama  : Ammar Umran Fauzi Ramadhan
-### Nim   : 211351016
+### NIM   : 211351016
 ### Kelas : Pagi B
 
 ## Domain Proyek
